@@ -1,0 +1,23 @@
+{
+  "name": "ip-address-tracker",
+  "version": "1.0.0",
+  "description": "this is an application of ip tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devFron/ip-address-tracker.git"
+  },
+  "keywords": [
+    "ip",
+    "tracker"
+  ],
+  "author": " <devFron>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devFron/ip-address-tracker/issues"
+  },
+  "homepage": "https://github.com/devFron/ip-address-tracker#readme"
+}
